@@ -1,7 +1,7 @@
 ---
 title: mac下反编译apk
 date: 2018-04-04 14:09:29
-tags:
+tags: apk
 ---
 ## 工具
 - apktool：用于反编译apk文件
